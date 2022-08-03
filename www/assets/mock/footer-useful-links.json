@@ -1,0 +1,44 @@
+[
+    {
+        "label": "Código",
+        "boldLabel": "de conduta",
+        "imgSrc": "assets/img/footer/useful-links/codigo-conduta-icon.svg",
+        "url": "https://www.movida.com.br/pdf/codigo_de_conduta.pdf",
+        "urlType": "_blank"
+    },
+    {
+        "label": "Relação com",
+        "boldLabel": "investidores",
+        "imgSrc": "assets/img/footer/useful-links/relacao-com-investidores-icon.svg",
+        "url": "https://ri.movida.com.br",
+        "urlType": "_blank"
+    },
+    {
+        "label": "Fale com o",
+        "boldLabel": "presidente",
+        "imgSrc": "assets/img/footer/useful-links/fale-com-presidente-icon.svg",
+        "url": "mailto:presidencia@movida.com.br",
+        "urlType": "_blank"
+    },
+    {
+        "label": "0800 771 8400",
+        "boldLabel": "Segunda a sexta 8h às 18h",
+        "imgSrc": "assets/img/footer/useful-links/telefone-icon.svg",
+        "url": "tel:08007718400",
+        "urlType": "_self"
+    },
+    {
+        "label": "Canal de denúncia",
+        "boldLabel": "0800 726 7111",
+        "imgSrc": "assets/img/footer/useful-links/canal-denuncia-icon.png",
+        "url": "tel:08007267111",
+        "urlType": "_self"
+    },
+    {
+        "label": "",
+        "boldLabel": "",
+        "imgSrc": "assets/img/footer/useful-links/simpar.svg",
+        "url": "https://simpar.com.br/empresas/",
+        "urlType": "_blank"
+    }
+]

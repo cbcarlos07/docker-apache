@@ -1,0 +1,88 @@
+[
+    {
+        "title": "Zero KM",
+        "linkType": "link",
+        "links": [
+            {
+                "label": "Home",
+                "url": "/",
+                "urlType": "internal"
+            },
+            {
+                "label": "O que é Zero KM Movida?",
+                "url": "/o-que-e-zero-km-movida",
+                "urlType": "internal"
+            },
+            {
+                "label": "Por que assinar?",
+                "url": "/por-que-assinar",
+                "urlType": "internal"
+            },
+            {
+                "label": "Perguntas Frequentes",
+                "url": "/faq",
+                "urlType": "internal"
+            },
+            {
+                "label": "Condições Gerais",
+                "url": "https://storage.googleapis.com/storage-public-images/zerokm/prod/pdf/minuta-contrato-publico-zerokm.pdf",
+                "urlType": "external"
+            }
+        ]
+    },
+    {
+        "title": "A Movida",
+        "linkType": "link",
+        "links": [
+            {
+                "label": "Institucional",
+                "url": "https://www.movida.com.br/institucional",
+                "urlType": "external"
+            },
+            {
+                "label": "Nossas Lojas",
+                "url": "https://www.movida.com.br/lojas",
+                "urlType": "external"
+            },
+            {
+                "label": "Fale Conosco",
+                "url": "https://www.movida.com.br/contato",
+                "urlType": "external"
+            },
+            {
+                "label": "Trabalhe Conosco",
+                "url": "https://www.movida.com.br/trabalhe-conosco",
+                "urlType": "external"
+            },
+            {
+                "label": "Política de Privacidade",
+                "url": "https://www.movida.com.br/politica-de-privacidade",
+                "urlType": "external"
+            }
+        ]
+    },
+    {
+        "title": "Sites Movida",
+        "linkType": "image",
+        "links": [
+            {
+                "label": "Movida Aluguel de Carros",
+                "src": "assets/img/footer/sites-movida/aluguel.svg",
+                "url": "https://www.movida.com.br",
+                "urlType": "external"
+            },
+            {
+                "label": "Movida Frotas",
+                "src": "assets/img/footer/sites-movida/frotas.svg",
+                "url": "https://www.movidafrotas.com.br",
+                "urlType": "external"
+            },
+            {
+                "label": "Seminovos Movida",
+                "src": "assets/img/footer/sites-movida/seminovos.svg",
+                "url": "https://www.seminovosmovida.com.br",
+                "urlType": "external"
+            }
+        ]
+    }
+]

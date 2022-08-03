@@ -1,0 +1,16 @@
+# All Groups
+User-agent: *
+Disallow: /lzkpkudwvuzcb.html
+Disallow: /assinatura/pagamento/
+Disallow: /assinatura/capturar-foto/
+Disallow: /assinatura/enviar-cnh/
+Disallow: /assinatura/responsavel/sucesso/
+Disallow: /assinatura/responsavel/pagamento/
+Disallow: /assinatura/responsavel/capturar-foto/
+Disallow: /assinatura/responsavel/enviar-cnh/
+Disallow: /assinatura/responsavel/pedido/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.movidazerokm.com.br/sitemap.xml

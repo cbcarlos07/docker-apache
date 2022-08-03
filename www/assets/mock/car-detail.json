@@ -1,0 +1,1559 @@
+{
+  "success": true,
+  "veiculo": {
+    "id": 140,
+    "CodigoFIPE": "001461-3",
+    "Versao": "MOBI Like 1.0 Fire Flex 5p.",
+    "F013_MarcaID": 21,
+    "F014_ModeloID": 3210,
+    "Capacidade": 47,
+    "ValorMercado": "35667.00",
+    "CategoriaID": 16,
+    "Motorizacao": null,
+    "F015_CambioID": null,
+    "F002_CombustivelID": null,
+    "F060_PneusID": null,
+    "T008_StatusID": null,
+    "ItensSerie": null,
+    "MobiAutoID": 1029041,
+    "GrupoID": "AX",
+    "AnoModelo": 2020,
+    "NroPortas": 4,
+    "Sku_Veiculo": "V0014613VELO3808N",
+    "Cambio": "Automático",
+    "Fotos": [{
+        "url": "mobi.png"
+      },
+      {
+        "url": "mobi.png"
+      },
+      {
+        "url": "mobi.png"
+      }
+    ],
+    "acessorios": [{
+      "AcessorioID": 14,
+      "Descricao": "ADAPTA\u00c7\u00c3O COMPLETA PICKUP CD padr\u00e3o CELPE"
+    }, {
+      "AcessorioID": 26,
+      "Descricao": "Parabrisa Virtus"
+    }, {
+      "AcessorioID": 27,
+      "Descricao": "Chave canivete 3 bot\u00f5es (Volkswagen)"
+    }, {
+      "AcessorioID": 28,
+      "Descricao": "Farol de neblina (Onix\/Voyage)"
+    }, {
+      "AcessorioID": 29,
+      "Descricao": "Kit Comfort (Mobi)"
+    }, {
+      "AcessorioID": 31,
+      "Descricao": "SOM ORIGINAL DOUBLE DIN (VOYAGE)"
+    }],
+    "combustivel": {
+      "CombID": 3,
+      "Combustivel": "Flex",
+      "MobiAutoID": 6
+    },
+    "marca": {
+      "MarcaID": 21,
+      "Marca": "Fiat",
+      "StatusID": 1,
+      "MobiAutoID": 20194
+    },
+    "modelo": {
+      "ModeloID": 3210,
+      "Modelo": "Mobi",
+      "F013_MarcaID": 21,
+      "StatusID": 1,
+      "QtdLitros": 0,
+      "MobiAutoID": 22859
+    }
+  },
+  "lojasDisponiveis": [{
+    "FilialID": 380,
+    "Loja": "MOVIDA ZERO KM",
+    "CEP": "08745-140",
+    "Latitude": "",
+    "Longitude": "",
+    "coresDisponiveis": [{
+      "CorID": 2494034,
+      "Cor": "Cinza Silverstone",
+      "CorMaster": 8,
+      "CorRepplica": 0,
+      "MobiAutoID": 12,
+      "placas": [{
+        "CorID": 2494034,
+        "FrotaID": 618087,
+        "Placa": "QXT8I60",
+        "StatusID": 5,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 2494034,
+        "FrotaID": 638207,
+        "Placa": "RFC8F71",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 2494034,
+        "FrotaID": 640819,
+        "Placa": "RFF5B25",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 2494034,
+        "FrotaID": 640821,
+        "Placa": "RFF5B29",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 2494034,
+        "FrotaID": 640822,
+        "Placa": "RFF5B31",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 2494034,
+        "FrotaID": 644258,
+        "Placa": "RFG3A54",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 2494034,
+        "FrotaID": 644260,
+        "Placa": "RFG2J94",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 2494034,
+        "FrotaID": 644261,
+        "Placa": "RFG3B32",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 2494034,
+        "FrotaID": 645523,
+        "Placa": "RFH9J65",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 2494034,
+        "FrotaID": 618040,
+        "Placa": "QXT5E69",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }, {
+      "CorID": 3657,
+      "hex1": "#000000",
+      "hex2": "#000000",
+      "Cor": "Preto Vulcano",
+      "CorMaster": 2,
+      "CorRepplica": 71,
+      "MobiAutoID": 8,
+      "placas": [{
+        "CorID": 3657,
+        "FrotaID": 640731,
+        "Placa": "RFF5B22",
+        "StatusID": 5,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 3657,
+        "FrotaID": 619939,
+        "Placa": "QXU1E82",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 3657,
+        "FrotaID": 620356,
+        "Placa": "QXU1E91",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 3657,
+        "FrotaID": 636649,
+        "Placa": "RFC4I95",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 3657,
+        "FrotaID": 640823,
+        "Placa": "RFF5B12",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 3657,
+        "FrotaID": 644255,
+        "Placa": "RFG3A92",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 3657,
+        "FrotaID": 644257,
+        "Placa": "RFG3B40",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }, {
+      "CorID": 25,
+      "hex1": "#C0C0C0",
+      "hex2": "#C0C0C0",
+      "Cor": "Prata Bari",
+      "CorMaster": 7,
+      "CorRepplica": 74,
+      "MobiAutoID": 7,
+      "placas": [{
+        "CorID": 25,
+        "FrotaID": 617996,
+        "Placa": "QXT5E04",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 618009,
+        "Placa": "QXT5E28",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 618028,
+        "Placa": "QXT5E88",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 618031,
+        "Placa": "QXT5E91",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 618033,
+        "Placa": "QXT5E93",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 618037,
+        "Placa": "QXT5E97",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 638167,
+        "Placa": "RFC8F23",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 638176,
+        "Placa": "RFC8F32",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 638182,
+        "Placa": "RFC8F38",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 641831,
+        "Placa": "RFF6H84",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 641838,
+        "Placa": "RFF6H91",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 641844,
+        "Placa": "RFF6H97",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 644186,
+        "Placa": "RFF9E42",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 644187,
+        "Placa": "RFF9E43",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 644188,
+        "Placa": "RFF9E44",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 644189,
+        "Placa": "RFF9E45",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 644190,
+        "Placa": "RFF9E47",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 644191,
+        "Placa": "RFF9E48",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 644192,
+        "Placa": "RFF9E49",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 644193,
+        "Placa": "RFF9E50",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 644194,
+        "Placa": "RFF9E51",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 644195,
+        "Placa": "RFF9E52",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 644200,
+        "Placa": "RFF9E63",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 644201,
+        "Placa": "RFF9E61",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 644202,
+        "Placa": "RFF9E62",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }, {
+      "CorID": 7564,
+      "hex1": "#980108",
+      "hex2": "#980108",
+      "Cor": "Vermelho Montecarlo",
+      "CorMaster": 4,
+      "CorRepplica": 0,
+      "MobiAutoID": 10,
+      "placas": [{
+        "CorID": 7564,
+        "FrotaID": 618056,
+        "Placa": "QXT5E70",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 7564,
+        "FrotaID": 618058,
+        "Placa": "QXT5E72",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 7564,
+        "FrotaID": 636729,
+        "Placa": "RFC4I84",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 7564,
+        "FrotaID": 640734,
+        "Placa": "RFF5B36",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 7564,
+        "FrotaID": 640735,
+        "Placa": "RFF5B37",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 7564,
+        "FrotaID": 644222,
+        "Placa": "RFF9E26",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 7564,
+        "FrotaID": 618047,
+        "Placa": "QXT5E60",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }, {
+      "CorID": 3654,
+      "hex1": "#FFFFFF",
+      "hex2": "#FFFFFF",
+      "Cor": "Branco Banchisa",
+      "CorMaster": 1,
+      "CorRepplica": 71,
+      "MobiAutoID": 5,
+      "placas": [{
+        "CorID": 3654,
+        "FrotaID": 644244,
+        "Placa": "RFG0J38",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 3654,
+        "FrotaID": 644245,
+        "Placa": "RFG1B22",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }]
+  }, {
+    "FilialID": 538,
+    "Loja": "BELO HORIZONTE VIA EXPRESSA RAC ZERO KM",
+    "CEP": "30410-610",
+    "Latitude": "",
+    "Longitude": "",
+    "coresDisponiveis": [{
+      "CorID": 3654,
+      "hex1": "#FFFFFF",
+      "hex2": "#FFFFFF",
+      "Cor": "Branco Banchisa",
+      "CorMaster": 1,
+      "CorRepplica": 71,
+      "MobiAutoID": 5,
+      "placas": [{
+        "CorID": 3654,
+        "FrotaID": 620152,
+        "Placa": "QXU3A60",
+        "StatusID": 5,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 3654,
+        "FrotaID": 620319,
+        "Placa": "QXU2J88",
+        "StatusID": 5,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }]
+  }, {
+    "FilialID": 541,
+    "Loja": "S\u00c3O PAULO - JUSCELINO KUBITSCHEK RAC ZERO KM",
+    "CEP": "04543-000",
+    "Latitude": "",
+    "Longitude": "",
+    "coresDisponiveis": [{
+      "CorID": 25,
+      "hex1": "#C0C0C0",
+      "hex2": "#C0C0C0",
+      "Cor": "Prata Bari",
+      "CorMaster": 7,
+      "CorRepplica": 74,
+      "MobiAutoID": 7,
+      "placas": [{
+        "CorID": 25,
+        "FrotaID": 644237,
+        "Placa": "RFG1A05",
+        "StatusID": 7,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 641839,
+        "Placa": "RFF6H92",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 641841,
+        "Placa": "RFF6H94",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 641843,
+        "Placa": "RFF6H96",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 641845,
+        "Placa": "RFF6H98",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 641846,
+        "Placa": "RFF6H99",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }, {
+      "CorID": 3657,
+      "hex1": "#000000",
+      "hex2": "#000000",
+      "Cor": "Preto Vulcano",
+      "CorMaster": 2,
+      "CorRepplica": 71,
+      "MobiAutoID": 8,
+      "placas": [{
+        "CorID": 3657,
+        "FrotaID": 640732,
+        "Placa": "RFF5B23",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 3657,
+        "FrotaID": 640831,
+        "Placa": "RFF5B20",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 3657,
+        "FrotaID": 640834,
+        "Placa": "RFF5B27",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 3657,
+        "FrotaID": 644220,
+        "Placa": "RFF9E57",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }, {
+      "CorID": 3654,
+      "hex1": "#FFFFFF",
+      "hex2": "#FFFFFF",
+      "Cor": "Branco Banchisa",
+      "CorMaster": 1,
+      "CorRepplica": 71,
+      "MobiAutoID": 5,
+      "placas": [{
+        "CorID": 3654,
+        "FrotaID": 642047,
+        "Placa": "RFG1A55",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }, {
+      "CorID": 2494034,
+      "Cor": "Cinza Silverstone",
+      "CorMaster": 8,
+      "CorRepplica": 0,
+      "MobiAutoID": 12,
+      "placas": [{
+        "CorID": 2494034,
+        "FrotaID": 644209,
+        "Placa": "RFF9E28",
+        "StatusID": 10
+      }, {
+        "CorID": 2494034,
+        "FrotaID": 644211,
+        "Placa": "RFF9E30",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 2494034,
+        "FrotaID": 644212,
+        "Placa": "RFF9E31",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 2494034,
+        "FrotaID": 644213,
+        "Placa": "RFF9E32",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 2494034,
+        "FrotaID": 644215,
+        "Placa": "RFF9E35",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }]
+  }, {
+    "FilialID": 483,
+    "Loja": "S\u00c3O PAULO - VILA LEOPOLDINA RAC - ZERO KM",
+    "CEP": "05314-000",
+    "Latitude": "",
+    "Longitude": "",
+    "coresDisponiveis": [{
+      "CorID": 2494034,
+      "Cor": "Cinza Silverstone",
+      "CorMaster": 8,
+      "CorRepplica": 0,
+      "MobiAutoID": 12,
+      "placas": [{
+        "CorID": 2494034,
+        "FrotaID": 617364,
+        "Placa": "QXU0G56",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 2494034,
+        "FrotaID": 640820,
+        "Placa": "RFF5B26",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 2494034,
+        "FrotaID": 644216,
+        "Placa": "RFF9E54",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 2494034,
+        "FrotaID": 644217,
+        "Placa": "RFF9E58",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 2494034,
+        "FrotaID": 644218,
+        "Placa": "RFF9E60",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 2494034,
+        "FrotaID": 644219,
+        "Placa": "RFF9E66",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }, {
+      "CorID": 7564,
+      "hex1": "#980108",
+      "hex2": "#980108",
+      "Cor": "Vermelho Montecarlo",
+      "CorMaster": 4,
+      "CorRepplica": 0,
+      "MobiAutoID": 10,
+      "placas": [{
+        "CorID": 7564,
+        "FrotaID": 636713,
+        "Placa": "RFC4I77",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }, {
+      "CorID": 25,
+      "hex1": "#C0C0C0",
+      "hex2": "#C0C0C0",
+      "Cor": "Prata Bari",
+      "CorMaster": 7,
+      "CorRepplica": 74,
+      "MobiAutoID": 7,
+      "placas": [{
+        "CorID": 25,
+        "FrotaID": 638175,
+        "Placa": "RFC8F31",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 641847,
+        "Placa": "RFF6I00",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 641848,
+        "Placa": "RFF6I01",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 641849,
+        "Placa": "RFF6I02",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 644240,
+        "Placa": "RFG0G76",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 644241,
+        "Placa": "RFG1B21",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 644263,
+        "Placa": "RFG2J34",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }, {
+      "CorID": 3657,
+      "hex1": "#000000",
+      "hex2": "#000000",
+      "Cor": "Preto Vulcano",
+      "CorMaster": 2,
+      "CorRepplica": 71,
+      "MobiAutoID": 8,
+      "placas": [{
+        "CorID": 3657,
+        "FrotaID": 640827,
+        "Placa": "RFF5B16",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 3657,
+        "FrotaID": 644221,
+        "Placa": "RFF9E67",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }]
+  }, {
+    "FilialID": 534,
+    "Loja": "S\u00c3O PAULO - BARRA FUNDA RAC  ZERO KM",
+    "CEP": "01139-003",
+    "Latitude": "",
+    "Longitude": "",
+    "coresDisponiveis": [{
+      "CorID": 2494034,
+      "Cor": "Cinza Silverstone",
+      "CorMaster": 8,
+      "CorRepplica": 0,
+      "MobiAutoID": 12,
+      "placas": [{
+        "CorID": 2494034,
+        "FrotaID": 618038,
+        "Placa": "QXT5E55",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 2494034,
+        "FrotaID": 644207,
+        "Placa": "RFF9E24",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 2494034,
+        "FrotaID": 644228,
+        "Placa": "RFG0H22",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 2494034,
+        "FrotaID": 644229,
+        "Placa": "RFG1A58",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 2494034,
+        "FrotaID": 644231,
+        "Placa": "RFG0G77",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 2494034,
+        "FrotaID": 644232,
+        "Placa": "RFG1A59",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 2494034,
+        "FrotaID": 644233,
+        "Placa": "RFG1B23",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }, {
+      "CorID": 3657,
+      "hex1": "#000000",
+      "hex2": "#000000",
+      "Cor": "Preto Vulcano",
+      "CorMaster": 2,
+      "CorRepplica": 71,
+      "MobiAutoID": 8,
+      "placas": [{
+        "CorID": 3657,
+        "FrotaID": 620251,
+        "Placa": "QXU3B47",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 3657,
+        "FrotaID": 620257,
+        "Placa": "QXU3B38",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 3657,
+        "FrotaID": 636650,
+        "Placa": "RFC4I96",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 3657,
+        "FrotaID": 636656,
+        "Placa": "RFC4I97",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 3657,
+        "FrotaID": 640828,
+        "Placa": "RFF5B17",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 3657,
+        "FrotaID": 640829,
+        "Placa": "RFF5B18",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }, {
+      "CorID": 3654,
+      "hex1": "#FFFFFF",
+      "hex2": "#FFFFFF",
+      "Cor": "Branco Banchisa",
+      "CorMaster": 1,
+      "CorRepplica": 71,
+      "MobiAutoID": 5,
+      "placas": [{
+        "CorID": 3654,
+        "FrotaID": 642046,
+        "Placa": "RFG1A54",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 3654,
+        "FrotaID": 644249,
+        "Placa": "RFG1A60",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 3654,
+        "FrotaID": 644250,
+        "Placa": "RFG0H75",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 3654,
+        "FrotaID": 644251,
+        "Placa": "RFG1B76",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }, {
+      "CorID": 25,
+      "hex1": "#C0C0C0",
+      "hex2": "#C0C0C0",
+      "Cor": "Prata Bari",
+      "CorMaster": 7,
+      "CorRepplica": 74,
+      "MobiAutoID": 7,
+      "placas": [{
+        "CorID": 25,
+        "FrotaID": 644206,
+        "Placa": "RFF9E70",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 644234,
+        "Placa": "RFG1A56",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 644235,
+        "Placa": "RFG0I93",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 644236,
+        "Placa": "RFG1A57",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }]
+  }, {
+    "FilialID": 537,
+    "Loja": "EXTRA BARRA DA TIJUCA RAC ZERO KM",
+    "CEP": "22640-900",
+    "Latitude": "",
+    "Longitude": "",
+    "coresDisponiveis": [{
+      "CorID": 7564,
+      "hex1": "#980108",
+      "hex2": "#980108",
+      "Cor": "Vermelho Montecarlo",
+      "CorMaster": 4,
+      "CorRepplica": 0,
+      "MobiAutoID": 10,
+      "placas": [{
+        "CorID": 7564,
+        "FrotaID": 640840,
+        "Placa": "RFF5B41",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }, {
+      "CorID": 25,
+      "hex1": "#C0C0C0",
+      "hex2": "#C0C0C0",
+      "Cor": "Prata Bari",
+      "CorMaster": 7,
+      "CorRepplica": 74,
+      "MobiAutoID": 7,
+      "placas": [{
+        "CorID": 25,
+        "FrotaID": 644198,
+        "Placa": "RFF9E56",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }, {
+      "CorID": 3654,
+      "hex1": "#FFFFFF",
+      "hex2": "#FFFFFF",
+      "Cor": "Branco Banchisa",
+      "CorMaster": 1,
+      "CorRepplica": 71,
+      "MobiAutoID": 5,
+      "placas": [{
+        "CorID": 3654,
+        "FrotaID": 644246,
+        "Placa": "RFG1B75",
+        "StatusID": 9,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }]
+  }, {
+    "FilialID": 473,
+    "Loja": "S\u00c3O PAULO - S\u00c3O CAETANO RAC - ZERO KM",
+    "CEP": "09520-120",
+    "Latitude": "-23.607613",
+    "Longitude": "-46.570386",
+    "coresDisponiveis": [{
+      "CorID": 2494034,
+      "Cor": "Cinza Silverstone",
+      "CorMaster": 8,
+      "CorRepplica": 0,
+      "MobiAutoID": 12,
+      "placas": [{
+        "CorID": 2494034,
+        "FrotaID": 617366,
+        "Placa": "QXU0F01",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 2494034,
+        "FrotaID": 617372,
+        "Placa": "QXU0F03",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }, {
+      "CorID": 25,
+      "hex1": "#C0C0C0",
+      "hex2": "#C0C0C0",
+      "Cor": "Prata Bari",
+      "CorMaster": 7,
+      "CorRepplica": 74,
+      "MobiAutoID": 7,
+      "placas": [{
+        "CorID": 25,
+        "FrotaID": 638168,
+        "Placa": "RFC8F24",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 638170,
+        "Placa": "RFC8F26",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 641852,
+        "Placa": "RFF6I05",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 644265,
+        "Placa": "RFG3A31",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 644266,
+        "Placa": "RFG3A88",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 644267,
+        "Placa": "RFG3A35",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }, {
+      "CorID": 3657,
+      "hex1": "#000000",
+      "hex2": "#000000",
+      "Cor": "Preto Vulcano",
+      "CorMaster": 2,
+      "CorRepplica": 71,
+      "MobiAutoID": 8,
+      "placas": [{
+        "CorID": 3657,
+        "FrotaID": 644226,
+        "Placa": "RFG1A06",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 3657,
+        "FrotaID": 644254,
+        "Placa": "RFG3B39",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 3657,
+        "FrotaID": 644256,
+        "Placa": "RFG3A38",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }]
+  }, {
+    "FilialID": 540,
+    "Loja": "S\u00c3O PAULO - GUARULHOS AEROPORTO RAC ZERO KM",
+    "CEP": "07190-100",
+    "Latitude": "",
+    "Longitude": "",
+    "coresDisponiveis": [{
+      "CorID": 7564,
+      "hex1": "#980108",
+      "hex2": "#980108",
+      "Cor": "Vermelho Montecarlo",
+      "CorMaster": 4,
+      "CorRepplica": 0,
+      "MobiAutoID": 10,
+      "placas": [{
+        "CorID": 7564,
+        "FrotaID": 640836,
+        "Placa": "RFF5B33",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }, {
+      "CorID": 25,
+      "hex1": "#C0C0C0",
+      "hex2": "#C0C0C0",
+      "Cor": "Prata Bari",
+      "CorMaster": 7,
+      "CorRepplica": 74,
+      "MobiAutoID": 7,
+      "placas": [{
+        "CorID": 25,
+        "FrotaID": 644179,
+        "Placa": "RFF9E34",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 644180,
+        "Placa": "RFF9E36",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 645519,
+        "Placa": "RFH9J69",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }, {
+      "CorID": 2494034,
+      "Cor": "Cinza Silverstone",
+      "CorMaster": 8,
+      "CorRepplica": 0,
+      "MobiAutoID": 12,
+      "placas": [{
+        "CorID": 2494034,
+        "FrotaID": 645521,
+        "Placa": "RFH9J63",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }]
+  }, {
+    "FilialID": 539,
+    "Loja": "RIO DE JANEIRO - SHOPPING BOULEVARD RAC ZERO KM",
+    "CEP": "20541-372",
+    "Latitude": "",
+    "Longitude": "",
+    "coresDisponiveis": [{
+      "CorID": 7564,
+      "hex1": "#980108",
+      "hex2": "#980108",
+      "Cor": "Vermelho Montecarlo",
+      "CorMaster": 4,
+      "CorRepplica": 0,
+      "MobiAutoID": 10,
+      "placas": [{
+        "CorID": 7564,
+        "FrotaID": 640837,
+        "Placa": "RFF5B34",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 7564,
+        "FrotaID": 640838,
+        "Placa": "RFF5B35",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }, {
+      "CorID": 25,
+      "hex1": "#C0C0C0",
+      "hex2": "#C0C0C0",
+      "Cor": "Prata Bari",
+      "CorMaster": 7,
+      "CorRepplica": 74,
+      "MobiAutoID": 7,
+      "placas": [{
+        "CorID": 25,
+        "FrotaID": 644181,
+        "Placa": "RFF9E37",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 644182,
+        "Placa": "RFF9E38",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 644183,
+        "Placa": "RFF9E39",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }, {
+      "CorID": 2494034,
+      "Cor": "Cinza Silverstone",
+      "CorMaster": 8,
+      "CorRepplica": 0,
+      "MobiAutoID": 12,
+      "placas": [{
+        "CorID": 2494034,
+        "FrotaID": 645524,
+        "Placa": "RFH9J66",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }]
+  }, {
+    "FilialID": 536,
+    "Loja": "BRASILIA SIA RAC ZERO KM",
+    "CEP": "71200-020",
+    "Latitude": "",
+    "Longitude": "",
+    "coresDisponiveis": [{
+      "CorID": 25,
+      "hex1": "#C0C0C0",
+      "hex2": "#C0C0C0",
+      "Cor": "Prata Bari",
+      "CorMaster": 7,
+      "CorRepplica": 74,
+      "MobiAutoID": 7,
+      "placas": [{
+        "CorID": 25,
+        "FrotaID": 644203,
+        "Placa": "RFF9E65",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 644204,
+        "Placa": "RFF9E68",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 25,
+        "FrotaID": 644205,
+        "Placa": "RFF9E69",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }, {
+      "CorID": 2494034,
+      "Cor": "Cinza Silverstone",
+      "CorMaster": 8,
+      "CorRepplica": 0,
+      "MobiAutoID": 12,
+      "placas": [{
+        "CorID": 2494034,
+        "FrotaID": 644227,
+        "Placa": "RFG0I92",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 2494034,
+        "FrotaID": 644262,
+        "Placa": "RFG3A34",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }, {
+      "CorID": 7564,
+      "hex1": "#980108",
+      "hex2": "#980108",
+      "Cor": "Vermelho Montecarlo",
+      "CorMaster": 4,
+      "CorRepplica": 0,
+      "MobiAutoID": 10,
+      "placas": [{
+        "CorID": 7564,
+        "FrotaID": 644242,
+        "Placa": "RFG0G75",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 7564,
+        "FrotaID": 644252,
+        "Placa": "RFG3B31",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 7564,
+        "FrotaID": 644253,
+        "Placa": "RFG3A32",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }, {
+      "CorID": 3654,
+      "hex1": "#FFFFFF",
+      "hex2": "#FFFFFF",
+      "Cor": "Branco Banchisa",
+      "CorMaster": 1,
+      "CorRepplica": 71,
+      "MobiAutoID": 5,
+      "placas": [{
+        "CorID": 3654,
+        "FrotaID": 644247,
+        "Placa": "RFG0H74",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }, {
+        "CorID": 3654,
+        "FrotaID": 644248,
+        "Placa": "RFG0G78",
+        "StatusID": 10,
+        "skus": [
+          "V0014613VELO3808N"
+        ]
+      }]
+    }]
+  }]
+}

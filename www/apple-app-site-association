@@ -1,0 +1,14 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "6TEU37XW47.br.com.mobmidia.movida",
+                "paths": [ "/home/*"]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [ "6TEU37XW47.br.com.mobmidia.movida"]
+    }
+}

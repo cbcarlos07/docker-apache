@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Grupo_14245" data-name="Grupo 14245" transform="translate(-192)">
+    <g id="Grupo_5689" data-name="Grupo 5689" transform="translate(192)">
+      <path id="Caminho_3767" data-name="Caminho 3767" d="M0,0H32V32H0Z" fill="#fff"/>
+    </g>
+    <g id="linkedin-logo" transform="translate(200.002 8.21)">
+      <path id="LinkedIn" d="M16.972,19.5v6.275H13.335V19.921c0-1.471-.526-2.474-1.843-2.474a1.99,1.99,0,0,0-1.866,1.331,2.489,2.489,0,0,0-.121.887v6.111H5.866s.049-9.916,0-10.943H9.5v1.551l-.024.035H9.5v-.035a3.613,3.613,0,0,1,3.279-1.808C15.177,14.576,16.972,16.14,16.972,19.5ZM2.059,9.558a1.9,1.9,0,1,0-.048,3.782h.024a1.9,1.9,0,1,0,.024-3.782ZM.216,25.776H3.854V14.833H.216Z" transform="translate(0 -9.558)" fill="#f97d00"/>
+    </g>
+  </g>
+</svg>

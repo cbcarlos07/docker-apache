@@ -2,10 +2,12 @@ version: "3.3"
 services:
   server:
     restart: always
-    build: .
+    image: httpd:2.4
     container_name: server
+    volumes:
+      - ./www:/usr/local/apache2/htdocs/
     ports:
-      - 80:80  
+      - 81:80  
    
     
 

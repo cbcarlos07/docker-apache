@@ -1,0 +1,551 @@
+[
+  {
+    "name": "Belo Horizonte via expressa rac zero km",
+    "address": "Avenida Nossa Senhora de Fátima",
+    "number": "3.462",
+    "city": "Belo Horizonte",
+    "state": "Minas Gerais",
+    "cep": "30410-610",
+    "phone": "0800 771 8400"
+  },
+  {
+    "name": "Belém SENADOR SN ZERO KM",
+    "address": "Avenida Senador Lemos",
+    "number": "2.381",
+    "city": "Belém",
+    "state": "Pará",
+    "cep": "66113-000",
+    "phone": "0800 771 8400"
+  },
+  {
+    "name": "Brasília rac zero km",
+    "address": "Rua Sia Trecho 2",
+    "number": "0",
+    "city": "Brasília",
+    "state": "Distrito Federal",
+    "cep": "71200-020",
+    "phone": "0800 771 8400"
+  },
+  {
+    "name": "Campinas rac zero km",
+    "address": "Avenida Orosimbo Maia",
+    "number": "1.645",
+    "city": "Campinas",
+    "state": "São Paulo",
+    "cep": "13010-211",
+    "phone": "0800 771 8400"
+  },
+  {
+    "name": "Curitiba Floriano sn zero km",
+    "address": "Avenida Marechal Floriano Peixoto",
+    "number": "3.890",
+    "city": "Curitiba",
+    "state": "Paraná",
+    "cep": "80220-001",
+    "phone": "0800 771 8400"
+  },
+  {
+    "name": "FLORIANOPOLIS AEROPORTO RAC ZERO KM",
+    "address": "Avenida Deputado Diomício Freitas",
+    "number": "3.374",
+    "city": "Florianópolis",
+    "state": "Santa Catarina",
+    "cep": "88047-400",
+    "phone": "0800 771 8400"
+  },
+  {
+    "name": "FORTALEZA AEROPORTO RAC ZERO KM",
+    "address": "Avenida Senador Carlos Jereissati",
+    "number": "1.600",
+    "city": "Fortaleza",
+    "state": "Ceará",
+    "cep": "60741-970",
+    "phone": "0800 771 8400"
+  },
+  {
+    "name": "MACEIó SN ZERO KM",
+    "address": "Avenida Fernandes Lima",
+    "number": "3.259",
+    "city": "Maceió",
+    "state": "Alagoas",
+    "cep": "57057-000",
+    "phone": "0800 771 8400"
+  },
+  {
+    "name": "MANAUS SN ZERO KM",
+    "address": "Avenida Torquato Tapajós",
+    "number": "6.464",
+    "city": "Manaus",
+    "state": "Amazonas",
+    "cep": "69058-830",
+    "phone": "0800 771 8400"
+  },
+  {
+    "name": "PORTO ALEGRE AEROPORTO RAC ZERO KM",
+    "address": "Avenida das Indústrias",
+    "number": "1.320",
+    "city": "Porto Alegre",
+    "state": "Rio Grande do Sul",
+    "cep": "90200-290",
+    "phone": "0800 771 8400"
+  },
+  {
+    "name": "RECIFE AEROPORTO RAC ZERO KM",
+    "address": "Avenida Marechal Mascarenhas de Morais",
+    "number": "5.875",
+    "city": "Recife",
+    "state": "Pernambuco",
+    "cep": "51210-001",
+    "phone": "0800 771 8400"
+  },
+  {
+    "name": "RIO DE JANEIRO - SHOPPING BOULEVARD RAC ZERO KM",
+    "address": "Rua Barão de São Francisco",
+    "number": "236",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "cep": "20541-372",
+    "phone": "0800 771 8400"
+  },
+  {
+    "name": "EXTRA BARRA DA TIJUCA RAC ZERO KM",
+    "address": "Avenida das Américas",
+    "number": "1.510",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "cep": "22640-900",
+    "phone": "0800 771 8400"
+  },
+  {
+    "name": "SALVADOR LAURO DE FREITAS SN ZERO KM",
+    "address": "Avenida Santos Dumont",
+    "number": "1.949",
+    "city": "Lauro de Freitas",
+    "state": "Bahia",
+    "cep": "42702-400",
+    "phone": "0800 771 8400"
+  },
+  {
+    "name": "SÃO PAULO - BARRA FUNDA RAC ZERO KM",
+    "address": "Avenida Marquês de São Vicente",
+    "number": "1.205",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "cep": "01139-003",
+    "phone": "0800 771 8400"
+  },
+  {
+    "name": "SÃO PAULO - GUARULHOS RAC ZERO KM",
+    "address": "Avenida Doutor Timóteo Penteado",
+    "number": "3.575",
+    "city": "Guarulhos",
+    "state": "São Paulo",
+    "cep": "07061-001",
+    "phone": "0800 771 8400"
+  },
+  {
+    "name": "SÃO PAULO - JUSCELINO KUBITSCHEK RAC ZERO KM",
+    "address": "Avenida Presidente Juscelino Kubitschek",
+    "number": "881",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "cep": "04543-000",
+    "phone": "0800 771 8400"
+  },
+  {
+    "name": "SÃO PAULO - SÃO CAETANO RAC - ZERO KM",
+    "address": "Avenida Conde Francisco Matarazzo",
+    "number": "495",
+    "city": "São Caetano do Sul",
+    "state": "São Paulo",
+    "cep": "09520-120",
+    "phone": "0800 771 8400"
+  },
+  {
+    "name": "SÃO PAULO - VILA LEOPOLDINA RAC ZERO KM",
+    "address": "Avenida Doutor Gastão Vidigal",
+    "number": "1.087",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "cep": "05314-000",
+    "phone": "0800 771 8400"
+  },  {
+    "name" : "SÃO PAULO - VILA LEOPOLDINA RAC - ZERO KM",
+    "address" : "Avenida Doutor Gastão Vidigal",
+    "number" : "1.087",
+    "city" : "São Paulo",
+    "state" : "São Paulo",
+    "cep" : "05314-000",
+    "phone" : "08007718400"
+  },
+  {
+    "name" : "GOIÂNIA SN - ZERO KM",
+    "address" : "Avenida Mutirão",
+    "number" : "2.370",
+    "city" : "Goiânia",
+    "state" : "Goiás",
+    "cep" : "74215-240",
+    "phone" : ""
+  },
+  {
+    "name" : "SANTOS SN - ZERO KM",
+    "address" : "Rua Brás Cubas",
+    "number" : "356",
+    "city" : "Santos",
+    "state" : "São Paulo",
+    "cep" : "11013-163",
+    "phone" : ""
+  },
+  {
+    "name" : "BRASILIA SIA RAC ZERO KM",
+    "address" : "Rua SIA Trecho 2",
+    "number" : "0",
+    "city" : "Brasília",
+    "state" : "Distrito Federal",
+    "cep" : "71200-020",
+    "phone" : ""
+  },
+  {
+    "name" : "SÃO PAULO - GUARULHOS AEROPORTO RAC ZERO KM",
+    "address" : "Rodovia Hélio Smidt",
+    "number" : "0",
+    "city" : "Guarulhos",
+    "state" : "São Paulo",
+    "cep" : "07190-100",
+    "phone" : ""
+  },
+  {
+    "name" : "SALVADOR - PARALELA SN ZERO KM",
+    "address" : "Avenida Luís Viana",
+    "number" : "6.650",
+    "city" : "Salvador",
+    "state" : "Bahia",
+    "cep" : "41730-101",
+    "phone" : ""
+  },
+  {
+    "name" : "VITÓRIA AEROPORTO SN ZERO KM",
+    "address" : "Avenida Fernando Ferrari",
+    "number" : "2.727",
+    "city" : "Vitória",
+    "state" : "Espírito Santo",
+    "cep" : "29072-340",
+    "phone" : ""
+  },
+  {
+    "name" : "MANAUS SN - ZERO KM",
+    "address" : "Avenida Torquato Tapajós",
+    "number" : "6.464",
+    "city" : "Manaus",
+    "state" : "Amazonas",
+    "cep" : "69058-830",
+    "phone" : ""
+  },
+  {
+    "name" : "BELÉM SENADOR SN - ZERO KM",
+    "address" : "Avenida Senador Lemos",
+    "number" : "2.381",
+    "city" : "Belém",
+    "state" : "Pará",
+    "cep" : "66113-000",
+    "phone" : ""
+  },
+  {
+    "name" : "MACEIÓ SN ZERO KM",
+    "address" : "Avenida Fernandes Lima",
+    "number" : "3.259",
+    "city" : "Maceió",
+    "state" : "Alagoas",
+    "cep" : "57057-000",
+    "phone" : ""
+  },
+  {
+    "name" : "PORTO ALEGRE AEROPORTO RAC - ZERO KM",
+    "address" : "Avenida das Indústrias",
+    "number" : "1.320",
+    "city" : "Porto Alegre",
+    "state" : "Rio Grande do Sul",
+    "cep" : "90200-290",
+    "phone" : ""
+  },
+  {
+    "name" : "FLORIANÓPOLIS AEROPORTO RAC - ZERO KM",
+    "address" : "Avenida Deputado Diomício Freitas",
+    "number" : "3.374",
+    "city" : "Florianópolis",
+    "state" : "Santa Catarina",
+    "cep" : "88047-400",
+    "phone" : ""
+  },
+  {
+    "name" : "SÃO JOSÉ DOS CAMPOS SN ZERO KM",
+    "address" : "Avenida Doutor Eduardo Cury",
+    "number" : "500",
+    "city" : "São José dos Campos",
+    "state" : "São Paulo",
+    "cep" : "12242-001",
+    "phone" : ""
+  },
+  {
+    "name" : "ARACAJU AEROPORTO RAC ZERO KM",
+    "address" : "Avenida Senador Júlio Leite",
+    "number" : "1.440",
+    "city" : "Aracaju",
+    "state" : "Sergipe",
+    "cep" : "49037-580",
+    "phone" : ""
+  },
+  {
+    "name" : "SANTOS AFFONSO PENNA RAC - ZERO KM",
+    "address" : "Avenida Afonso Pena",
+    "number" : "50",
+    "city" : "Santos",
+    "state" : "São Paulo",
+    "cep" : "11020-000",
+    "phone" : ""
+  },
+  {
+    "name" : "FEIRA DE SANTANA SN - ZERO KM",
+    "address" : "Avenida Presidente Dutra",
+    "number" : "2.850",
+    "city" : "Feira de Santana",
+    "state" : "Bahia",
+    "cep" : "44076-130",
+    "phone" : ""
+  },
+  {
+    "name" : "RECIFE IMBIRIBEIRA SN - ZERO KM",
+    "address" : "Avenida Marechal Mascarenhas de Morais",
+    "number" : "2.080",
+    "city" : "Recife",
+    "state" : "Pernambuco",
+    "cep" : "51180-001",
+    "phone" : ""
+  },
+  {
+    "name" : "FORTALEZA SN - ZERO KM",
+    "address" : "Avenida Washington Soares",
+    "number" : "4.775",
+    "city" : "Fortaleza",
+    "state" : "Ceará",
+    "cep" : "60833-005",
+    "phone" : ""
+  },
+  {
+    "name" : "SÃO LUÍS SN - ZERO KM",
+    "address" : "Avenida dos Holandeses",
+    "number" : "7",
+    "city" : "São Luís",
+    "state" : "Maranhão",
+    "cep" : "65071-380",
+    "phone" : ""
+  },
+  {
+    "name" : "BELÉM MARCO SN - ZERO KM",
+    "address" : "Travessa Lomas Valentinas",
+    "number" : "1.868",
+    "city" : "Belém",
+    "state" : "Pará",
+    "cep" : "66093-671",
+    "phone" : ""
+  },
+  {
+    "name" : "NATAL SN - ZERO KM",
+    "address" : "Avenida Engenheiro Roberto Freire",
+    "number" : "2.939",
+    "city" : "Natal",
+    "state" : "Rio Grande do Norte",
+    "cep" : "59082-400",
+    "phone" : ""
+  },
+  {
+    "name" : "ITAJAÍ SN - ZERO KM",
+    "address" : "Rodovia Osvaldo Reis",
+    "number" : "501",
+    "city" : "Itajaí",
+    "state" : "Santa Catarina",
+    "cep" : "88306-001",
+    "phone" : ""
+  },
+  {
+    "name" : "TERESINA SN - ZERO KM",
+    "address" : "Avenida João XXIII",
+    "number" : "1.411",
+    "city" : "Teresina",
+    "state" : "Piau",
+    "cep" : "64049-010",
+    "phone" : ""
+  },
+  {
+    "name" : "RIO DE JANEIRO - GALEÃO AEROPORTO SN ZERO KM",
+    "address" : "Avenida Vinte de Janeiro",
+    "number" : "400",
+    "city" : "Rio de Janeiro",
+    "state" : "Rio de Janeiro",
+    "cep" : "21941-570",
+    "phone" : ""
+  },
+  {
+    "name" : "OSASCO SN - ZERO KM",
+    "address" : "Avenida dos Autonomistas",
+    "number" : "989",
+    "city" : "Osaco",
+    "state" : "São Paulo",
+    "cep" : "06090-015",
+    "phone" : ""
+  },
+  {
+    "name" : "PIRACICABA SN - ZERO KM",
+    "address" : "Avenida Doutor Cássio Paschoal Padovani",
+    "number" : "861",
+    "city" : "Piracicaba",
+    "state" : "São Paulo",
+    "cep" : "13420-355",
+    "phone" : ""
+  },
+  {
+    "name" : "SUZANO SN - ZERO KM",
+    "address" : "Avenida Antônio Marques Figueira",
+    "number" : "1.296",
+    "city" : "Suzano",
+    "state" : "São Paulo",
+    "cep" : "08676-420",
+    "phone" : ""
+  },
+  {
+    "name" : "PORTO ALEGRE SARANDI SN - ZERO KM",
+    "address" : "Avenida dos Gaúchos",
+    "number" : "443",
+    "city" : "Porto Alegre",
+    "state" : "Rio Grande do Sul",
+    "cep" : "91110-090",
+    "phone" : ""
+  },
+  {
+    "name" : "CAMPO GRANDE SN - ZERO KM",
+    "address" : "Avenida Eduardo Elias Zahran",
+    "number" : "2.871",
+    "city" : "Campo Grande",
+    "state" : "Mato Grosso do Sul",
+    "cep" : "79041-000",
+    "phone" : ""
+  },
+  {
+    "name" : "RIBEIRÃO PRETO SN - ZERO KM",
+    "address" : "Avenida Presidente Kennedy",
+    "number" : "1.481",
+    "city" : "Ribeirão preto",
+    "state" : "São Paulo",
+    "cep" : "14096-340",
+    "phone" : ""
+  },
+  {
+    "name" : "SÃO JOSÉ DO RIO PRETO SN - ZERO KM",
+    "address" : "Avenida Presidente Juscelino Kubitschek de Oliveira",
+    "number" : "4.80",
+    "city" : "São José do Rio Preto",
+    "state" : "São Paulo",
+    "cep" : "15092-175",
+    "phone" : ""
+  },
+  {
+    "name" : "JOINVILLE SN - ZERO KM",
+    "address" : "Rua Doutor João Colin",
+    "number" : "1.516",
+    "city" : "Joinville",
+    "state" : "Santa Catarina",
+    "cep" : "89204-002",
+    "phone" : ""
+  },
+  {
+    "name" : "LONDRINA SN - ZERO KM",
+    "address" : "Avenida Tiradentes",
+    "number" : "2.801",
+    "city" : "Londrina",
+    "state" : "Paraná",
+    "cep" : "86071-000",
+    "phone" : ""
+  },
+  {
+    "name" : "BETIM SN - ZERO KM",
+    "address" : "Rua Manoel Lopes Ferreira",
+    "number" : "10",
+    "city" : "Betim",
+    "state" : "Minas Gerais",
+    "cep" : "32670-246",
+    "phone" : ""
+  },
+  {
+    "name" : "JOÃO PESSOA SN - ZERO KM",
+    "address" : "Avenida Nego",
+    "number" : "870",
+    "city" : "João Pessoa",
+    "state" : "Paraíba",
+    "cep" : "58039-101",
+    "phone" : ""
+  },
+  {
+    "name" : "SOROCABA SN - ZERO KM",
+    "address" : "Avenida Brasil",
+    "number" : "777",
+    "city" : "Sorocaba",
+    "state" : "São Paulo",
+    "cep" : "18060-105",
+    "phone" : ""
+  },
+  {
+    "name" : "UBERLÂNDIA SN - ZERO KM",
+    "address" : "Avenida João Naves de Ávila",
+    "number" : "3.905",
+    "city" : "Uberlândia",
+    "state" : "Minas Gerais",
+    "cep" : "38408-144",
+    "phone" : ""
+  },
+  {
+    "name" : "BLUMENAU SN - ZERO KM",
+    "address" : "Rua Dois de Setembro",
+    "number" : "996",
+    "city" : "Blumenau",
+    "state" : "Santa Catarina",
+    "cep" : "89052-000",
+    "phone" : ""
+  },
+  {
+    "name" : "CUIABÁ SN - ZERO KM",
+    "address" : "Avenida Carmindo de Campos",
+    "number" : "2.347",
+    "city" : "Cuitabá",
+    "state" : "Mato Grosso",
+    "cep" : "78065-310",
+    "phone" : ""
+  },
+  {
+    "name" : "BAURU SN - ZERO KM",
+    "address" : "Avenida Nações Unidas",
+    "number" : "975",
+    "city" : "Bauro",
+    "state" : "São Paulo",
+    "cep" : "17010-130",
+    "phone" : ""
+  },
+  {
+    "name" : "SÃO PAULO - ARICANDUVA SN - ZERO KM",
+    "address" : "Avenida Aricanduva",
+    "number" : "5.500",
+    "city" : "São Paulo",
+    "state" : "São Paulo",
+    "cep" : "03490-000",
+    "phone" : ""
+  },
+  {
+    "name" : "SÃO PAULO - TATUAPÉ - MARGINAL TIETÊ RAC - ZERO KM",
+    "address" : "Avenida Condessa Elisabeth de Robiano",
+    "number" : "1.750",
+    "city" : "São Paulo",
+    "state" : "São Paulo",
+    "cep" : "03074-000",
+    "phone" : ""
+  }
+
+]

@@ -1,0 +1,298 @@
+[
+    {
+        "question": "O que é Movida Zero Km?",
+        "answer": "Movida Zero Km é um serviço de carro por assinatura para pessoa física com valor mensal. Funciona assim: você aluga um carro pelo período mínimo de 12 meses e não se preocupa com documentação, IPVA, licenciamento, seguro, manutenções previstas no manual e desvalorização do veículo. Você só aproveita as conveniências de ter um carro zero quilômetro com zero dores de cabeça."
+    },
+    {
+        "question": "Como posso contratar o serviço?",
+        "answer": "É fácil! Você pode acessar o website movidazerokm.com.br por meio de seu celular, tablet ou computador para contratar nosso serviço. Ah! E, se quiser, vá a uma loja Movida que o nosso time resolve tudo para você por lá também!"
+    },
+    {
+        "question": "O que eu preciso para assinar Movida Zero Km?",
+        "answer": "Ser pessoa física, ter no mínimo 18 anos, possuir CNH definitiva e válida, cartão de crédito válido e não ter restrições financeiras. Moleza, né?"
+    },
+    {
+        "question": "Como sei que Movida Zero Km atende a minha cidade?",
+        "answer": "O cliente deve checar no site (www.movidazerokm.com.br) para ver se o carro que pretende assinar está disponível em sua localidade. Isso pode ser verificado bem rapidinho."
+    },
+    {
+        "question": "Onde posso retirar o veículo que eu assinei?",
+        "answer": "Na loja escolhida por você, no ato da contratação, para a retirada do veículo."
+    },
+    {
+        "question": "Posso receber o meu veículo em casa?",
+        "answer": "Sim! Movida Zero Km entrega o veículo na sua residência sem problema algum. Consulte a disponibilidade do car delivery na sua localidade e seja feliz."
+    },
+    {
+        "question": "Quanto tempo leva para que eu receba o carro?",
+        "answer": "No caso dos veículos à pronta-entrega, em até, no máximo, dois dias úteis. Se o carro contratado estiver em transporte, a entrega ocorre em até 20 dias. Aqui, como deu para notar, a gente gosta mesmo é de agilidade, de tornar a sua vida muito mais simples."
+    },
+    {
+        "question": "Posso renovar o meu contrato?",
+        "answer": "Sim. Nosso time de Renovação de Contratos entra em contato para saber se você pretende estender seu contrato por um novo período. Sempre estaremos de braços abertos para te receber e oferecer, claro, as melhores condições!"
+    },
+    {
+        "question": "E se eu não quiser prorrogar o meu contrato?",
+        "answer": "Vai querer mesmo voltar a se preocupar com seguro, IPVA e revisão? Mesmo? Achamos difícil, difícil mesmo, que queira voltar a se preocupar com isso e não queira continuar na vida mansa. Por isso, nosso time de renovação entrará em contato com você ao fim do período do seu contrato pra que você continue a ser feliz de carro Zero Km."
+    },
+    {
+        "question": "Posso ficar com o mesmo carro após a renovação do contrato?",
+        "answer": "Sim. Após realizada nova contratação do Zero Km, você pode permanecer com o mesmo carro – desde que sejam respeitadas as regras de quilometragem e tempo de uso do veículo. Mas, se você é que nem a gente, e não curte ficar na mesmice, pode escolher qualquer outro modelo do nosso estoque. E, claro, melhor: um veículo zerinho, zerinho."
+    },
+    {
+        "question": "Os carros são zero quilômetro mesmo ou são seminovos e/ou usados?",
+        "answer": "Todos os carros do Movida Zero Km são novos, diretos de fábrica, com documentação completa e em dia."
+    },
+    {
+        "question": "O preço é fixo ou terá variações a cada mês?",
+        "answer": "O valor do aluguel de veículo por assinatura é fixo e será atualizado com base na variação positiva do IPCA (Índice Nacional de Preços ao Consumidor Amplo) do período. Além disso, podem ocorrer variações nocusto devido a manutenções não previstas no manual, multas, coparticipações ou contratação de serviços adicionais."
+    },
+    {
+        "question": "Mais de um motorista pode dirigir o carro?",
+        "answer": "Sim. Você pode incluir até 3 (três) condutores adicionais no ato da contratação."
+    },
+    {
+        "question": "Tenho que pagar por cada condutor que queira adicionar?",
+        "answer": "Mas é claro que não! Aqui os condutores adicionais também fazem parte da família. Não cobramos nada para que você os inclua."
+    },
+    {
+        "question": "Posso ter mais de um carro contratado no meu nome?",
+        "answer": "Sim. Até três carros podem ser contratados em seu nome, desde que haja aprovação de crédito compatível com esse pedido, e que consiga custear o valor do aluguel de mais de um veículo."
+    },
+    {
+        "question": "O plano de quilometragem da Movida Zero Km é cumulativo?",
+        "answer": "Dá até um quentinho no coração na hora de responder a essa dúvida. Sim! A franquia é cumulativa até o final do contrato. Por exemplo: caso opte por assinar um plano de 36 meses com franquia de 1.000 km, o cliente pode utilizar até 36 mil quilômetros até o fim do contrato, independentemente do quanto utilizar em cada mês. Afinal de contas, queremos tornar a sua vida muito, muito mais simples."
+    },
+    {
+        "question": "A quilometragem excedente varia de preço conforme o contrato?",
+        "answer": "Sim. A quilometragem excedente varia de preço conforme o modelo escolhido."
+    },
+    {
+        "question": "Como é calculada a quilometragem excedente?",
+        "answer": "A apuração da quilometragem excedente é feita ao final do contrato. A cobrança do valor total dos quilômetros excedentes será calculada sobre o que exceder a franquia mensal contratada, de acordo com o período apurado."
+    },
+    {
+        "question": "Existe alguma forma de saber qual é a quilometragem que já foi utilizada?",
+        "answer": "Claro! E é bem simples. Você pode verificar a quilometragem já utilizada por meio do hodômetro do veículo. Dessa forma, dá para fazer as contas numa boa, sem preocupações."
+    },
+    {
+        "question": "O que acontece se eu cancelar a assinatura antes do fim do contrato?",
+        "answer": "Será aplicada uma multa de 35% (trinta e cinco por cento) do saldo total do aluguel relativo ao período contratual remanescente."
+    },
+    {
+        "question": "Quais são as formas de pagamento?",
+        "answer": "Cartão de crédito válido. O pagamento recorrente do serviço de assinatura consome do seu limite de crédito apenas o valor da parcela mensal."
+    },
+    {
+        "question": "Quais são as bandeiras de cartão de crédito aceitas?",
+        "answer": "Movida Zero Km aceita todas as bandeiras de cartão de crédito, à exceção, por enquanto, da Amex. Cartões Amex são aceitos apenas nas lojas físicas."
+    },
+    {
+        "question": "A assinatura exige valor de entrada?",
+        "answer": "Respire aliviada ou aliviado. Por quê? Porque a resposta é não. A gente não exige valor de entrada na assinatura. No entanto, é bom lembrar que a primeira mensalidade é lançada no cartão de crédito do cliente no ato da aquisição."
+    },
+    {
+        "question": "O documento do carro fica em nome de quem?",
+        "answer": "O documento do carro contratado fica em nome da Movida"
+    },
+    {
+        "question": "O que devo fazer se perder o documento do carro?",
+        "answer": "Não precisa ficar nervoso. Isso acontece até mesmo com os melhores, não é? É só entrar em contato com a Central de Atendimento da Movida Zero Km (0800 771 8400) para solicitar a segunda via do documento do carro. Assim, seu problema será resolvido rapidinho."
+    },
+    {
+        "question": "Posso rodar sem o documento do carro?",
+        "answer": "Não. De acordo com o Código de Trânsito Brasileiro, é obrigatório o porte do Certificado de Licenciamento Anual."
+    },
+    {
+        "question": "Preciso pagar IPVA, Licenciamento e Seguro Obrigatório?",
+        "answer": "Você tem zero custo com documentações e impostos (IPVA, Licenciamento e Seguro Obrigatório) do veículo. Todos eles são pagos pela Movida. Já sentiu a dor de cabeça indo embora depois dessa, né?"
+    },
+    {
+        "question": "Preciso pagar coparticipação em caso de roubo, furto ou colisão?",
+        "answer": "Sim. Para todas as locações realizadas, será aplicada a proteção Básica (LDW). Além desta, você tem a opção de contratar a proteção completa (LDW e ALI) a casco e terceiros, e a proteção super (LDW, ALI e PAI), que contempla casco, terceiros e ocupantes e outras proteções adicionais. Caso aconteça algum imprevisto, será cobrada uma coparticipação. A coparticipação, sempre bom lembrar, varia de acordo com o modelo."
+    },
+    {
+        "question": "O que faço em caso de roubo?",
+        "answer": "Entre em contato, imediatamente, com a Polícia Militar por meio do 190. Em até 1 hora, se faz também necessária a comunicação do roubo por meio da nossa Central de Atendimento (0800 771 8400) ou pessoalmente. Além disso, você também deve elaborar um Boletim de Ocorrência em até 6 (seis) horas. Este terá de ser apresentado à Movida em até 3 (três) dias úteis. O relatório de Evento Adverso deve ser preenchido e assinado no mesmo prazo."
+    },
+    {
+        "question": "O que faço em caso de furto?",
+        "answer": "Assim como em caso de roubo, entre em contato, imediatamente, com a Polícia Militar por meio do 190. Em até 1 hora, se faz também necessária a comunicação do roubo por meio da Central de Atendimento (0800 771 8400) ou pessoalmente. Nesse caso você também tem de fazer Boletim de Ocorrência em até 6 (seis) horas, que terá de ser apresentado à Movida em até 3 (três) dias úteis. O relatório de Evento Adverso deve ser preenchido e assinado no mesmo prazo."
+    },
+    {
+        "question": "O que faço em caso de sinistro?",
+        "answer": "Assim como em caso de roubo e furto, entrar em contato, imediatamente, com a Polícia Militar por meio do 190. Em até 1 hora, se faz também necessária a comunicação do roubo por meio da Central de Atendimento (0800 771 8400) ou pessoalmente. Além disso, deve-se elaborar Boletim de Ocorrência em até 6 (seis) horas. Este deve ser apresentado à Movida em até 3 (três) dias úteis. O relatório de Evento Adverso também deve ser preenchido e assinado no mesmo prazo."
+    },
+    {
+        "question": "Quais são os períodos disponíveis de contrato?",
+        "answer": "São muitos! Você pode escolher planos de 12, 18, 24, 30, 36 e 48 meses, com a possibilidade de rodar entre 1.000 km e 3.000 km. Curtiu, né?"
+    },
+    {
+        "question": "Quando acontecem as revisões do carro?",
+        "answer": "Cada fabricante determina um prazo ou quilometragem para as revisões. Conforme descrito nos termos e condições gerais, é de responsabilidade do cliente agendar as revisões com antecedência mínima de 1.000 km(mil quilômetros), respeitadas as condições e prazos previstos no Manual do Fabricante/Proprietário do Veículo. Entre em contato com a Central de Atendimento da Movida Zero Km (0800 771 8400) para ser orientado sobre como proceder."
+    },
+    {
+        "question": "A revisão pode ser feita por um mecânico da minha confiança?",
+        "answer": "Não. Entre em contato com a Central de Atendimento da Movida Zero Km (0800 771 8400) para ser orientado sobre como proceder."
+    },
+    {
+        "question": "Posso utilizar o serviço de carro reserva?",
+        "answer": "Se houver indisponibilidade do carro locado por mais de 24 horas por causa de Evento Adverso, Manutenção Corretiva ou Manutenção Preventiva, a gente disponibiliza um Carro Reserva da categoria AX para você numa boa, sem custo adicional, por um período de 07 dias corridos para cada 12 (doze) meses de vigência do contrato, podendo ser utilizados de maneira acumulativa. Caso precise de um Carro Reserva, entre em contato com a Central de Atendimento da Movida Zero Km (0800 771 8400)."
+    },
+    {
+        "question": "O que é um Evento Adverso?",
+        "answer": "Os Eventos Adversos são os seguintes: furto, roubo, incêndio, acidente de trânsito, perda de placa do veículo, perda de chaves, e todo e qualquer evento que envolva o carro do qual resultem danos de qualquer natureza."
+    },
+    {
+        "question": "Posso utilizar o veículo para trabalhar como motorista de aplicativos de carona, como Uber e 99?",
+        "answer": "Não. É vedada a contratação e utilização do Movida Zero Km para esta finalidade."
+    },
+    {
+        "question": "O que acontece em caso de multa?",
+        "answer": "Todas as multas por infração de trânsito aplicadas ao veículo serão repassadas a você ou aos condutores adicionais previamente indicados no contrato, com penalização direta na CNH. Funciona da seguinte forma: a gente te envia um e-mail com a notificação da multa, e você terá 72 horas para indicar quem estava na direção no momento da infração."
+    },
+    {
+        "question": "Como eu faço para pagar a multa?",
+        "answer": "A multa será automaticamente lançada no cartão de crédito atrelado ao contrato. Em caso de falha de cobrança no cartão de crédito, não se preocupe. O pagamento poderá ser feito por meio de boleto bancário, fatura ou outro meio permitido por Movida Zero Km."
+    },
+    {
+        "question": "Posso parcelar o pagamento da multa?",
+        "answer": "Não. O pagamento da multa não pode ser parcelado."
+    },
+    {
+        "question": "E se eu não quiser me identificar em caso de notificação de infração de trânsito?",
+        "answer": "Você pode identificar outra pessoa, desde que seja um dos condutores adicionais. Na hipótese de o cliente não se manifestar no prazo máximo de 72 horas, ele será indicado como o causador da infração de trânsito."
+    },
+    {
+        "question": "Posso recorrer de uma multa de trânsito?",
+        "answer": "Sim. Tanto cliente quanto condutor adicional podem recorrer das multas junto ao órgão de trânsito competente."
+    },
+    {
+        "question": "Movida Zero Km tem carros de montadoras diferentes?",
+        "answer": "Sim. Movida Zero Km tem carros de diferentes fabricantes da indústria automotiva. Não custa nada dizer também que temos automóveis de diferentes categorias."
+    },
+    {
+        "question": "Quais são as categorias da Movida Zero Km?",
+        "answer": "Os carros do Movida Zero Km estão divididos em 4 (quatro) categorias: Compacto, Sedan, SUV e Premium. Isso significa que temos veículos para todos os gostos e bolsos. É só chegar!"
+    },
+    {
+        "question": "Movida Zero Km tem carros elétricos?",
+        "answer": "Sim. Se você quiser, Movida Zero Km tem carros elétricos, que poluem muito menos que veículos a combustão, disponíveis para assinatura."
+    },
+    {
+        "question": "Movida Zero Km tem carros blindados?",
+        "answer": "Sim. Movida Zero Km tem carros blindados para você que busca por um veículo deste tipo."
+    },
+    {
+        "question": "Quanto tempo leva para a aprovação da análise cadastral?",
+        "answer": "É bem rapidinho! Você nem sente! A aprovação da análise cadastral leva em torno de 5 (cinco) minutos. Na maioria dos casos a aprovação é quase que instantânea."
+    },
+    {
+        "question": "Onde consigo retirar o carro reserva?",
+        "answer": "A Central de Atendimento do Zero Km (0800 771 8400) indicará a loja mais próxima para a retirada do Carro Reserva da categoria AX. No entanto, você pode fazer a retirada em qualquer loja, na que preferir mesmo."
+    },
+    {
+        "question": "Tenho algum prazo para fazer a retirada do meu Zero Km?",
+        "answer": "Sim. O veículo deve ser recebido no prazo máximo de 5 (cinco) dias úteis a contar da comunicação de disponibilidade do mesmo para a retirada."
+    },
+    {
+        "question": "E se eu não retirar o carro no prazo estipulado?",
+        "answer": "Mesmo que o cliente não retire o carro no prazo estabelecido, o contrato é iniciado e será cobrado o primeiro mês de aluguel, sem prejuízo ainda de serem cobrados do cliente eventuais custos extraordinários decorrentes do atraso (diárias/estadia em pátio de fornecedores ou estacionamentos, transporte do (s) veículo (s), entre outros). Se o cliente não retirar o veículo no prazo de até 30 (trinta) dias, a contar da data de tentativa de contato pela locadora, será considerada como desistência do contrato e mantida a cobrança do primeiro mês de aluguel."
+    },
+    {
+        "question": "Quando pago a segunda mensalidade do Zero Km?",
+        "answer": "O pagamento da segunda mensalidade ocorre somente 30 dias após a retirada do carro na loja Movida Zero Km."
+    },
+    {
+        "question": "Como sei que fiz o pagamento da minha mensalidade do Zero Km?",
+        "answer": "No Zero Km você tem, claro, a sua área. Na Área do Cliente você pode se certificar se seu pagamento está em dia. Mas, caso queira, dá ainda para checar o informe do seu banco e/ou do emissor do seu cartão de crédito."
+    },
+    {
+        "question": "O que acontece se eu atrasar o pagamento da mensalidade do Zero KM?",
+        "answer": "O atraso no pagamento deixa o cliente sujeito à negativação do nome junto aos órgãos de proteção ao crédito, ao pagamento do valor devido, corrigido pela variação positiva do IPCA, juros de mora de 1% (um por cento) ao mês e multa de 2% (dois por cento) sobre o valor atual do débito."
+    },
+    {
+        "question": "Posso optar por ter minha mensalidade cobrada por outro cartão de crédito?",
+        "answer": "Pode. Você consegue realizar a substituição do cartão de crédito na Área do Cliente. Se quiser, dá também para fazer a operação no aplicativo da Movida."
+    },
+    {
+        "question": "Como proceder em caso de pagamento em duplicidade?",
+        "answer": "Em caso de suspeita de pagamento em duplicidade, dê aquela boa checada na Área do Cliente para saber se está tudo certinho ou se realmente deu zebra. Caso tenha ocorrido algum problema, entre em contato com a Central de Atendimento do Zero Km (0800 771 8400)."
+    },
+    {
+        "question": "Posso comprar o carro ao fim do contrato?",
+        "answer": "No encerramento do contrato, o cliente pode formalizar seu interesse de compra para que a Movida analise a possibilidade."
+    },
+    {
+        "question": "Posso trocar de carro durante o período do contrato?",
+        "answer": "Não. O carro não pode ser trocado durante o período do contrato. Você, porém, pode assinar um novo carro na renovação do contrato."
+    },
+    {
+        "question": "Posso fazer um upgrade durante o período do contrato?",
+        "answer": "Não. Você não pode fazer um upgrade durante o período do contrato."
+    },
+    {
+        "question": "Movida Zero Km ajuda a vender meu carro usado?",
+        "answer": "Não. Movida Zero Km ainda não te ajuda a vender seu carro usado."
+    },
+    {
+        "question": "Posso instalar algum tipo de acessório no carro?",
+        "answer": "Sim, você pode. Desde que o acessório não tire a originalidade do veículo e não faça quaisquer alterações na parte elétrica do carro. A instalação de película automotiva, por exemplo, desde que respeitadas as leis de trânsito, é permitida. Vale dizer, porém, que adesivagem e plotagem, por exemplo, não são permitidas."
+    },
+    {
+        "question": "Posso viajar com o carro para o exterior?",
+        "answer": "Não. O carro deve ser utilizado apenas em território brasileiro."
+    },
+    {
+        "question": "Como faço para entregar o carro ao término do contrato?",
+        "answer": "É molezinha. Ao final do prazo do contrato, entramos em contato com você para agendamento da data e local de devolução do carro."
+    },
+    {
+        "question": "Como é feita a manutenção corretiva?",
+        "answer": "A manutenção corretiva, assim como a preventiva, deve ser agendada por meio da Central de Atendimento do Zero Km (0800 771 8400)."
+    },
+    {
+        "question": "O que faço se o carro for apreendido?",
+        "answer": "Você deve entrar em contato com a Central de Atendimento do Zero Km (0800 771 8400). Em caso de apreensão por responsabilidade do cliente e/ou condutor adicional, estes serão obrigados a arcar com quaisquer despesas incorridas para a liberação do automóvel."
+    },
+    {
+        "question": "O carro vem com Sem Parar?",
+        "answer": "Há opção de contratação no ato da assinatura. Se quiser o Sem Parar depois de assinado o contrato, basta ir a uma de nossas lojas para garantir o serviço."
+    },
+    {
+        "question": "Posso trocar os pneus do carro?",
+        "answer": "Não. O serviço de troca de pneus, salvo Evento Adverso, só pode ser realizado/agendado após contato com a Central de Atendimento do Zero Km (0800 771 8400)."
+    },
+    {
+        "question": "Zero KM me dá direito a reboque?",
+        "answer": "Sim. Você pode solicitar serviço de reboque, especialmente em caso de Evento Adverso e/ou pane de qualquer natureza no veículo."
+    },
+    {
+        "question": "Movida Zero Km me dá direito a hospedagem?",
+        "answer": "Sim. Você pode solicitar serviço de hospedagem, especialmente em caso de Evento Adverso e/ou pane de qualquer natureza no veículo."
+    },
+    {
+        "question": "Movida Zero Km me dá direito a socorro mecânico?",
+        "answer": "Sim. Você pode solicitar serviço de hospedagem, especialmente em caso de Evento Adverso e/ou pane de qualquer natureza no veículo."
+    },
+    {
+        "question": "Zero Km me dá direito a chaveiro?",
+        "answer": "Sim. Movida Zero Km te dá direito a chaveiro."
+    },
+    {
+        "question": "Zero KM me dá direito a táxi?",
+        "answer": "Sim. Movida Zero Km te dá direito a serviço de táxi, especialmente em caso de Evento Adverso e/ou pane de qualquer natureza no veículo."
+    },
+    {
+        "question": "O que é o Programa Carbon Free?",
+        "answer": "O Programa Carbon Free foi lançado em 2009. A iniciativa compensa a emissão de dióxido de carbono por meio do plantio de árvores."
+    },
+    {
+        "question": "Existe um aplicativo Movida Zero Km?",
+        "answer": "Movida Zero Km não tem um aplicativo. No entanto, como já te dissemos, a alteração do cartão de crédito pode ser feita por meio do app da Movida."
+    },
+    {
+        "question": "Existem lojas físicas do Movida Zero Km?",
+        "answer": "Temos pontos de venda em São Paulo, capital, mas também atendemos em várias lojas espalhadas por todo o Brasil! =)"
+    }
+]
